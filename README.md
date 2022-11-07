@@ -26,3 +26,6 @@ I'm a self-taught passionate FrontEnd/BackEnd/App developer from Belgium.
 <a href="https://twitter.com/JayJay1989BE">
   <img align="right" alt="JayJay1989 | Twitter" width="21px" src="assets/Twitter-logo.svg" />
 </a>
+<a href="https://allmylinks.com/jayjay1989be">
+  <img align="right" alt="JayJay1989 | AllMyLinks" width="21px" src="assets/allmylinks-logo.svg" />
+</a>
