@@ -12,7 +12,7 @@ I'm a self-taught passionate FrontEnd/BackEnd/App developer from Belgium.
 
 - 💬 Ask me about anything [here](https://github.com/JayJay1989/JayJay1989/issues)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayjay1989&show_icons=true&theme=transparent&hide_border=true" alt="JayJay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjay1989&theme=transparent&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api?username=jayjay1989&show_icons=true&theme=transparent&hide_border=true" alt="JayJay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jayjay1989&theme=transparent&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
