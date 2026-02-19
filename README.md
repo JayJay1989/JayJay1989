@@ -17,7 +17,7 @@ I'm a self-taught passionate FrontEnd/BackEnd/App developer from Belgium.
 
 #### Top Repositories
 
-| <a href="https://github.com/JayJay1989/TwitchLib.Pubsub.Example"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayJay1989&repo=TwitchLib.Pubsub.Example&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/JayJay1989/TwitchLib.Pubsub.Example"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=JayJay1989&repo=TwitchLib.Pubsub.Example&theme=transparent&hide_border=true" /></a> |
 | ------------- |
 
 <br />
